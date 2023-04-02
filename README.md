@@ -4,7 +4,7 @@
 <img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gifv">
 🔭 I’m currently working on my indie game in Unity
 
-🌱 I’m currently learning C++ and Unreal Engine
+🌱 I’m also learning C++ and Unreal Engine
 
 📫 How to reach me **panos.mousenikas@gmail.com**
 
