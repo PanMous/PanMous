@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Panos</h1>
 <h3 align="center">An extremely passionate game developer and software developer</h3>
 <img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gifv">
-👨‍💻 I’m a hard-working, disciplined and extremely passionate game developer and junior software developer who is currently working on my new indie game in Unity.
+👨‍💻 I’m a hard-working, disciplined and extremely passionate game developer and junior software developer.
 
 
 🎓 I have a Bachelor of Science in Digital Systems and Software from the University of Piraeus, work experience as a web developer and multiple C# projects under my belt made in Unity.
