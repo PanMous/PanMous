@@ -6,7 +6,7 @@
 🎓 I have a Bachelor of Science in Digital Systems and Software from the University of Piraeus, work experience as a web developer and multiple C# projects under my belt made in Unity.
 
 
-👨‍💻 I’m a hard-working, disciplined and extremely passionate game developer and junior software developer.
+👨‍💻 I’m hard-working, disciplined and extremely passionate.
 
 
 📖 I’m also learning C++.
