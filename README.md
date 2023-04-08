@@ -3,7 +3,9 @@
 <h3 align="center">An extremely passionate software developer and game developer</h3>
 <img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gifv">
 
-🎓 I have a Bachelor of Science in Digital Systems and Software from the University of Piraeus, work experience as a web developer and multiple C# projects under my belt made in Unity.
+🎓 I have a Bachelor of Science in Digital Systems in the field of Software & Data Systems from the University of Piraeus. 
+
+I have work experience as a web developer and currently working as a solo indie game developer.
 
 
 👨‍💻 I’m hard-working, disciplined and extremely passionate.
