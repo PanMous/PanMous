@@ -5,14 +5,9 @@
 
 🎓 I have a Bachelor of Science in Digital Systems in the field of Software & Data Systems from the University of Piraeus. 
 
-I have work experience as a web developer and currently working as a solo indie game developer.
+👨‍💻 I have work experience as a web developer and currently working as a solo indie game developer.
 
-
-👨‍💻 I’m hard-working, disciplined and extremely passionate.
-
-
-📖 I’m also learning C++.
-
+👨‍ I’m hard-working, disciplined and extremely passionate about game development.
 
 📧 How to reach me **panos.mousenikas@gmail.com**
 
